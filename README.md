@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Alinuvecita/Alinuvecita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AlinGarcia/AlinGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
